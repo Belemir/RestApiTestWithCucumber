@@ -2,7 +2,6 @@
 This is a Rest Api testing example with Cucumber , RestAssured, cucumber-junit
 
 # Installation
-Install 
   * Intelij 
   * Java
   * CucumberforJava plugin
