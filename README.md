@@ -11,13 +11,13 @@ This is a Rest Api testing example with Cucumber , RestAssured, cucumber-junit
 # Run
 Go to src/source/features
 
-* Right click -> Run Post.feature
+* Post.feature -> Right click -> Run 
 
-* Right click -> Run Get.feature
+* Get.feature -> Right click -> Run 
 
-* Right click -> Run Patch.feature
+* Patch.feature -> Right click -> Run 
 
-* Right click -> Run Delete.feature
+* Delete.feature -> Right click -> Run 
 
 You will see results at console
 
