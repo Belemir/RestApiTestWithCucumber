@@ -4,6 +4,7 @@ This is a Rest Api testing example with Cucumber , RestAssured, cucumber-junit
 # Installation
   * Intelij 
   * Java
+  * Maven
   * CucumberforJava plugin
   * Gherkin plugin
 
